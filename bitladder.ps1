@@ -2,7 +2,7 @@
 # Name: tv_kids_media_scanner.ps1
 #
 # Dependency:
-# Access to '\\truenas\splishsplash', mounted as "T:\"
+# Access to '\\truenas\splishsplash\media', mounted as "P:\"
 #
 # Description:
 # Loop through movies and create a single file with multiple audio/video streams
